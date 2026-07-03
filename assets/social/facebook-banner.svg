@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 628">
+    <rect width="1200" height="628" fill="#173226"/>
+    <rect x="30" y="30" width="1140" height="568" rx="26" fill="#f6f3ec" opacity=".08"/>
+    <image href="../logos/logo-horizontal-light.png" x="72" y="87" width="696" height="188"/>
+    <text x="72" y="427" font-family="Arial, Helvetica, sans-serif" font-size="75" font-weight="700" fill="#ffffff">Facebook banner</text>
+    <text x="72" y="514" font-family="Arial, Helvetica, sans-serif" font-size="43" fill="#d9eadc">Agricultural consulting • Morocco • Sustainable growth</text>
+    </svg>

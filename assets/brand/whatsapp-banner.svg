@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400">
+<rect width="1200" height="400" rx="32" fill="#143326"/>
+<circle cx="132" cy="200" r="72" fill="#25D366"/>
+<path d="M110 170h44c15 0 26 12 26 26v8c0 16-11 28-26 28h-44c-15 0-26-12-26-28v-8c0-14 11-26 26-26Z" fill="#fff"/>
+<text x="240" y="156" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#fff">Request a consultation on WhatsApp</text>
+<text x="240" y="218" font-family="Arial, Helvetica, sans-serif" font-size="32" fill="#d7e7da">Fast field support for crops, livestock, irrigation and investment planning</text>
+<text x="240" y="288" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#87d9af">0641637051</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AIT MELLAL LHOUSSAIN logo">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#2f8f5b"/>
+      <stop offset="55%" stop-color="#5abf85"/>
+      <stop offset="100%" stop-color="#87d9af"/>
+    </linearGradient>
+    <linearGradient id="w" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#55c1ff"/>
+      <stop offset="100%" stop-color="#1b7aaa"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="136" fill="#f6f3ec"/>
+  <g transform="translate(64 56)">
+    <path d="M64 300c52-70 122-131 192-175 69 44 139 105 192 175-50-20-105-31-162-31-57 0-112 11-162 31Z" fill="#254d3d" opacity=".16"/>
+    <path d="M256 26c44 46 72 95 72 146 0 51-28 99-72 144-45-45-73-93-73-144 0-51 28-100 73-146Z" fill="url(#w)" opacity=".92"/>
+    <path d="M256 42c26 36 42 73 42 109 0 36-16 72-42 107-26-35-42-71-42-107 0-36 16-73 42-109Z" fill="#ffffff" opacity=".18"/>
+    <path d="M256 111c76 0 138 62 138 138H118c0-76 62-138 138-138Z" fill="url(#g)"/>
+    <path d="M118 249c20 0 44-25 64-49 18 23 43 49 74 49 31 0 56-26 74-49 20 24 44 49 64 49" fill="none" stroke="#f6f3ec" stroke-width="14" stroke-linecap="round"/>
+    <path d="M256 78c34 22 59 55 71 97-30-18-62-27-95-27-33 0-65 9-95 27 12-42 37-75 71-97l24 61 24-61Z" fill="#e9f9ef" opacity=".9"/>
+    <path d="M164 275h184" stroke="#3d6c54" stroke-width="14" stroke-linecap="round"/>
+    <path d="M132 312c40-18 81-27 124-27s84 9 124 27" fill="none" stroke="#2f8f5b" stroke-width="12" stroke-linecap="round"/>
+    <path d="M160 344c30-11 62-16 96-16s66 5 96 16" fill="none" stroke="#c7a978" stroke-width="12" stroke-linecap="round"/>
+  </g>
+</svg>
